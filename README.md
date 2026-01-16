@@ -1,7 +1,7 @@
 # Plant Diseases Classification Experiments
 
 **Author:** Hung Dang Pham  
-**Affiliation:** Ho Chi Minh University of Technology, Indiana University of Pennsylvania
+**Affiliation:** Ho Chi Minh University of Technology, Indiana University of Pennsylvania  
 **Date:** December 2025
 
 ## 1. Project Overview
